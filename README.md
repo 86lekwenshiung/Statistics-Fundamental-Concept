@@ -1,8 +1,8 @@
-# Statistic : Hypothesis Testing
+# Statistic Concept
 
 ## 1.0 Introduction
 ___
-This folder here will document various statistic concept.
+This folder here document various statistic concept.
 
 ## 2.0 Method Dictionary
 
@@ -10,4 +10,4 @@ This folder here will document various statistic concept.
 |---|---|
 |Central Limit Therorem||
 |Chi Square Goodness of Fit||
-# Statistics-Hypothesis-Testing
+|Levene Test|Test whether variances of 2 samples are approximately equal|
