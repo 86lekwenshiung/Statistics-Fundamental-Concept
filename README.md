@@ -17,7 +17,7 @@ Nonparametric statistical procedures rely on no or few assumptions about the sha
   
 |Analysis Type|Paramatric Procedure|Nonparametric Procedure|Example Question|
 |---|---|---|---|
-|Compare 2 independant group|Two-sample t-test / Paired t-tests|Wilcoxon ranksum test|Is the mean systolic blood pressure (at baseline) for patients assigned to placebo different from the mean for patients assigned to the treatment group?|
+|Compare 2 independant group|Two-sample t-test / Independant t-tests|Wilcoxon ranksum test|Is the mean systolic blood pressure (at baseline) for patients assigned to placebo different from the mean for patients assigned to the treatment group?|
 |Compare 2 quantitative measurement taken from same individual|Paired t-test|Wilcoxon signedrank test|Was there a significant change in systolic blood pressure between baseline and the six-month followup measurement in the treatment group? |
 |Compare 2 or more independant groups|Analysis of Variance (ANOVA)|Kruskal-Wallis test| Was there a significant difference in the systolic blood mean pressure between the 3 groups|  
 |Correlation between 2 quantitative variables|Pearson coefficient of correlation |Spearman’s rank correlation| Is systolic blood pressure associated with the patient’s age? |
