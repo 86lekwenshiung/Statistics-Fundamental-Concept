@@ -26,12 +26,9 @@ Nonparametric statistical procedures rely on no or few assumptions about the sha
 
 ## 2.0 Method Dictionary
 
-|Concept|Description|
-|---|---|
-|Central Limit Therorem||
-|[Chi Square Goodness of Fit](https://github.com/86lekwenshiung/Statistics-Hypothesis-Testing/blob/master/Chi-Square%20Goodness%20of%20Fit%20Test_final.ipynb)|Test how close How are the observed values to those which would be expected under the fitted model|
-|[Levene Test](https://github.com/86lekwenshiung/Statistics-Hypothesis-Testing/blob/master/Shapiro%20%26%20Levene%20Test.ipynb)|Test whether variances of 2 samples are approximately equal|
-|[Shapiro Test](https://github.com/86lekwenshiung/Statistics-Hypothesis-Testing/blob/master/Shapiro%20%26%20Levene%20Test.ipynb)|Test whether the considered data is normally distributed data or not|
+|Notebook|Description|Notebook Key Feature|
+|---|---|---|
+|2 Sample T-test| A/B Testing on Mobile Game's Level : Is there difference in Retention Rate at Level 30 and Level 40?| Levene Test <br> Shapiro Test <br> Wilcoxon ranksum test|
 
   
   ## 3.0 Credits and Resources
