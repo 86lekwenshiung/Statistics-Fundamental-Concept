@@ -24,7 +24,7 @@ Nonparametric statistical procedures rely on no or few assumptions about the sha
   
 
 
-## 2.0 Method Dictionary
+## 2.0 Notebook Summary
 
 |Notebook|Description|Notebook Key Feature|
 |---|---|---|
