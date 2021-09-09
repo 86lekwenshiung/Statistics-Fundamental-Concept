@@ -28,7 +28,7 @@ Nonparametric statistical procedures rely on no or few assumptions about the sha
 
 |Notebook|Description|Notebook Key Feature|
 |---|---|---|
-|2 Sample T-test| A/B Testing on Mobile Game's Level : Is there difference in Retention Rate at Level 30 and Level 40?| Levene Test <br> Shapiro Test <br> Wilcoxon ranksum test|
+|[2 Sample T-test](https://github.com/86lekwenshiung/Statistics-Fundamental-Concept/blob/master/Two-Sample%20T-Test.ipynb)| A/B Testing on Mobile Game's Level : Is there difference in Retention Rate at Level 30 and Level 40?| Levene Test <br> Shapiro Test <br> Wilcoxon ranksum test|
 
   
   ## 3.0 Credits and Resources
